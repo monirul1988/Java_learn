@@ -1,0 +1,1 @@
+package check_no_program;
